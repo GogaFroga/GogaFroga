@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GogaFroga
+- 👋 Hi, I’m @GogaFoga
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning C++, Python and Qt5
 - 💞️ I’m looking to collaborate on nothing rn
